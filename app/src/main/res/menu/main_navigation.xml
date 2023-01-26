@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_community"
+        android:icon="@drawable/nav_community"
+        android:title="Community"/>
+
+    <item
+        android:id="@+id/navigation_TD"
+        android:icon="@drawable/nav_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_IoT"
+        android:icon="@drawable/nav_iot"
+        android:title="Light/Speaker" />
+
+
+</menu>
